@@ -15,6 +15,16 @@ $RECYCLE.BIN/
 *.msp
 
 # =========================
+# NPM + BOWER
+# =========================
+node/bower_components/
+node/node_modules/
+bower_components/
+node_modules/
+packages/
+dumps/
+
+# =========================
 # Operating System Files
 # =========================
 
@@ -26,7 +36,7 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must ends with two \r.
-Icon
+Icon
 
 # Thumbnails
 ._*
