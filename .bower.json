@@ -1,0 +1,34 @@
+{
+  "name": "SlidesJS3",
+  "homepage": "http://slidesjs.com",
+  "authors": [
+    "Nathan Searles <nsearles@gmail.com> (http://nathansearles.com)"
+  ],
+  "description": "SlidesJS is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions.",
+  "main": "source/jquery.slides.js",
+  "keywords": [
+    "slides",
+    "jquery",
+    "nathan",
+    "searles",
+    "slidesjs",
+    "slidesjs3"
+  ],
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "ee85f9ee1e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ee85f9ee1ef75eacf4679252f8c2ac1041b8c7dd"
+  },
+  "_source": "git://github.com/malas34/slidesjs3.git",
+  "_target": "*",
+  "_originalSource": "SlidesJS3"
+}
